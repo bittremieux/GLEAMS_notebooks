@@ -1,6 +1,6 @@
 # GLEAMS notebooks
 
-This is a companion repository to the _GLEAMS_ deep learning MS/MS spectrum embedder.
+This is a companion repository to the GLEAMS deep learning MS/MS spectrum embedder.
 
 For more information, see the [official GLEAMS code website](https://github.com/bittremieux/GLEAMS).
 
