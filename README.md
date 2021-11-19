@@ -15,5 +15,5 @@ See the installation instructions on the [official GLEAMS code website](https://
 Use the following installation command to include all additional dependencies needed to run the notebooks during GLEAMS installation:
 
 ```
-pip install git+https://github.com/bittremieux/GLEAMS.git#egg=gleams[notebook]
+pip3 install git+https://github.com/bittremieux/GLEAMS.git#egg=gleams[notebook]
 ```
